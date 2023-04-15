@@ -10,8 +10,8 @@
 body{
     font-family: monospace;
     background: var(--body-color);
-    width: auto;
-    max-height: auto;
+    width: 100vw;
+    max-height: 100vh;
 }
 
 .coloured-text{
